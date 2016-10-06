@@ -1,15 +1,15 @@
 {
-	"schema_version": "0.1.0",
-	"packages": [
-		{
-    	"name": "ToolSample",
-			"details": "https://github.com/BigRoy/tool_sample",
-      "labels": ["sample", "gui"],
-			"releases": [
-				{
-					"tags": true
-				}
-      ]
-    }
-	]
+    "schema_version": "0.1.0",
+    "packages": [
+        {
+            "name": "ToolSample",
+            "details": "https://github.com/BigRoy/tool_sample",
+            "labels": ["sample", "gui"],
+            "releases": [
+                {
+                    "tags": true
+                }
+            ]
+        }
+    ]
 }
